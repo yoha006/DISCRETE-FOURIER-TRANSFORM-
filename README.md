@@ -9,7 +9,7 @@ PC installed with SCILAB.
 
 # PROGRAM: 
 # DFT:
-
+```
 clc; 
 clear; 
 xn=[1 2 3 4 4 3 2 1]; 
@@ -80,7 +80,7 @@ plot2d3(n2,y)
 xlabel('Time n'); 
 ylabel('Amplitude'); 
 title('Inverse FFT OF X(K)');
-
+```
 
 
 
